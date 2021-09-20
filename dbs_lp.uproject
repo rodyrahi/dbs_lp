@@ -2,5 +2,24 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{F6E49379-4C34-684C-6754-72BFA476D1CA}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "DungeonArchitect",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1a4ad2a06f174a26af8a29728241ce42"
+		},
+		{
+			"Name": "Prefabricator",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/39ccbbf668e84847890992df9922e355"
+		}
+	],
+	"TargetPlatforms": [
+		"Android"
+	]
 }
